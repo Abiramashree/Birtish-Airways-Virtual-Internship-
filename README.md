@@ -8,7 +8,8 @@ Web scraping to gain company insights
   
   Analyze customer review data to uncover findings
 
-Insights
+
+Finding
 
 ![image](https://github.com/Abiramashree/Birtish-Airways-Virtual-Internship-/assets/100403590/856a31d4-46e3-4a96-8da0-fad26e991df3)
 
@@ -20,6 +21,7 @@ TASK 2
   Explore and prepare the dataset
   Train a predictive model to understand factors that influence buying behaviour
   Evaluate the model and present the important features
+
 
 Insights 
 
